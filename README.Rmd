@@ -16,6 +16,7 @@ knitr::opts_chunk$set(
 # HiveQLgenerator
 
 <!-- badges: start -->
+[![R-CMD-check](https://github.com/konradzdeb/HiveQLgenerator/workflows/R-CMD-check/badge.svg)](https://github.com/konradzdeb/HiveQLgenerator/actions)
 <!-- badges: end -->
 
 The goal of HiveQLgenerator is to provide a convenience wrapper for functions offered in generating HiveQL code. 
@@ -33,7 +34,7 @@ devtools::install_github("HiveQLgenerator")
 This is a basic example which shows you how to solve a common problem:
 
 ```{r example}
-library(HiveQLgenerator)
+# library(HiveQLgenerator)
 ## basic example code
 ```
 
