@@ -3,3 +3,4 @@
 ^README\.Rmd$
 ^sessionInfoLog$
 ^\.github$
+^LICENSE\.md$
